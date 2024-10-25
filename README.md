@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @brandonpretelt
+- 👋 Hi, I’m Brandon
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning SvelteKit, NextJS, TypeScript
+- 🌱 I’m currently learning Hono and Bun 
 
 
 
